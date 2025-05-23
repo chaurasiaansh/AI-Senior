@@ -1,0 +1,90 @@
+
+
+ 
+Astha Pandey 
+B. T E C H   U N DE RG RA D U A T E   I N   C S E-A I M L 
+ 
+ 
+OBJECT IVE 
+Passionate   Frontend   Web   Developer   with   experience   in   building 
+responsive  and  user-friendly  websites.  Proficient  in  C++,  HTML,  CSS, 
+TailwindCSS, React.js and foundational Python. Skilled in UI design and 
+with a strong focus on creating efficient and scalable web solutions. 
+ 
+CONT A CT 
+Location- Bhopal, Madhya Pradesh  
+Email- asthaaa1104@gmail.com 
+LinkedIn- 
+http://www.linkedin.com/in/astha-
+pandey-57a182242 
+GitHub-
+https://github.com/asthapandey2026 
+SKIL LS  
+• Languages: C++, Python (Basics) 
+• Frontend: HTML, CSS, JavaScript 
+• Frameworks: React.js, Tailwind CSS 
+• Coursework: Data Structures & Algorithms, Operating Systems, 
+OOPs, DBMS 
+• Additional Skills: UI Design (Figma), Canva, Presentation Skills 
+EDU CAT ION 
+ 
+• B A C H E L O R   O F   T E C H N O L O G Y : CSE- A I M L 
+Lakshmi Narain College of Technology Excellence, Bhopal, MP 
+Graduation Year – 2026                                CGPA - 7.8 
+• I N T E R M E D I A T E 
+De Paul Senior Secondary School, Vindhyanagar, Singrauli, MP 
+Completion Year- 2022                                Percentage- 80.4% 
+• M A T R I C U L A T I O N   
+De Paul Senior Secondary School, Vindhyanagar, Singrauli, MP 
+Completion Year- 2020                                Percentage- 83.6% 
+ 
+PROJECTS 
+1. PR O J E C T   1 :  S K I N   D I S E A S E   A N A L Y S I S 
+Link to Project - https://github.com/asthapandey2026/Skin_Analyser 
+• AI-powered Skin Disease Detection System using image processing. 
+• CNN-based classification of 12 dermatological conditions, including 
+melanoma. 
+• Datasets Used: Skin Disease and DermNet for model training. 
+• Technology Used: Python (TensorFlow, OpenCV), React.js for web 
+deployment.  
+ 
+2. P R O J E C T   2: P H A R M A C E U T IC A L   W E B S I T E 
+Link to Project - https://github.com/asthapandey2026/Bare_And_Best 
+• Developed a Pharmaceutical Website to purchase pharma products. 
+• Integrated a secure query system for customers to contact the admin. 
+• Optimized UI for seamless navigation and user accessibility. 
+• Technology Used: React.js, Node.js, MongoDB, HTML, CSS, 
+TailwindCss.  
+ 
+CERT IFI CAT IO NS  
+ 
+T W O   M O N T H S   T R A I N I N G   O N  
+C + + 
+Cybrom Technology, Bhopal | 
+February 2024  
+D A T A B A S E   M A N A G E M E N T  
+S Y S T EM 
+Infosys Springboard | October 2024 
+ 
+LA NGU AGES 
+English 
+Hindi  
+ 
+ACHIEVEMENTS 
+• Ranked top 40 in Hackanovate 
+5.0. 
+• Cleared internal round of SIH 
+2024; developed a full-stack Bail 
+Reckoner website. 
+• 2nd place in GDSC Web 
+Development Bootcamp Final 
+Project. 
+• Certified in Cisco’s Introduction to 
+Cybersecurity & Cybersecurity 
+Essentials. 
+• Completed a 3-day open-source 
+workshop with Next-Gen-
+Community, Microsoft LSA & 
+Hacktoberfest 10. 
+ 
+ 
